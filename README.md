@@ -11,7 +11,6 @@ The **Airline Reservation Management System** is a Java-based application design
 - **Ticket Management**: Users can view, modify, or cancel their reservations.
 - **Admin Dashboard**: Admins can add, update, or delete flight details, manage bookings, and monitor available seats.
 - **Payment Processing**: Simulated payment gateway for completing bookings.
-- **Flight Schedule Management**: Manage flight schedules and details.
 - **Real-time Availability**: Shows real-time seat availability for flights.
 
 ---
